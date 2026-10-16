@@ -2,7 +2,7 @@
 
 <img src="https://locafe.app/assets/winston.png" alt="Winston icon" width="104" height="104">
 
-A native Reddit client for iOS, written in Swift and SwiftUI. Part of lo.cafe’s app history.
+A native Reddit client for iOS, written in Swift and SwiftUI. By lo.cafe.
 
 [Winston on lo.cafe](https://locafe.app/winston/) · [Source code](https://github.com/lo-cafe-ltda/winston) · [Releases](https://github.com/lo-cafe-ltda/winston/releases) · [lo.cafe](https://locafe.app/)
 
@@ -27,10 +27,10 @@ Open an issue for a bug report or feature proposal. For code contributions, star
 
 - Company website: [locafe.app](https://locafe.app/)
 - Company information: [lo.cafe Ltda.](https://locafe.app/empresa/)
-- Press and partnerships: [press@getnotchnook.com](mailto:press@getnotchnook.com)
+- Press and partnerships: [press@locafe.app](mailto:press@locafe.app)
 
 ## License and contributors
 
 Winston is licensed under [GPL-3.0](LICENSE.md). Thanks to all [Winston contributors](https://github.com/lo-cafe-ltda/winston/graphs/contributors).
 
-[Original project README, 2024](docs/history/README-2024.md)
+[Installation and project links](docs/history/README-2024.md)
