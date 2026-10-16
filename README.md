@@ -31,6 +31,6 @@ Open an issue for a bug report or feature proposal. For code contributions, star
 
 ## License and contributors
 
-Winston is licensed under [GPL-3.0](LICENSE). Thanks to all [Winston contributors](https://github.com/lo-cafe-ltda/winston/graphs/contributors).
+Winston is licensed under [GPL-3.0](LICENSE.md). Thanks to all [Winston contributors](https://github.com/lo-cafe-ltda/winston/graphs/contributors).
 
 [Original project README, 2024](docs/history/README-2024.md)
