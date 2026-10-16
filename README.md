@@ -33,4 +33,4 @@ Open an issue for a bug report or feature proposal. For code contributions, star
 
 Winston is licensed under [GPL-3.0](LICENSE.md). Thanks to all [Winston contributors](https://github.com/lo-cafe-ltda/winston/graphs/contributors).
 
-[Installation and project links](docs/history/README-2024.md)
+[Installation and project links](https://github.com/lo-cafe-ltda/winston/blob/main/docs/history/README-2024.md)
