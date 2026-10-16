@@ -1,19 +1,36 @@
-# Winston for Reddit
+# Winston
 
-![Winston Logo](winston-everywhere/Resources/images/icon-128.png)
+<img src="https://locafe.app/assets/winston.png" alt="Winston icon" width="104" height="104">
 
-This is the official repository for Winston, a beautiful, FOSS, native handcrafted Reddit client for iOS.
+A native Reddit client for iOS, written in Swift and SwiftUI. By lo.cafe.
 
-This is a WIP, both the app and this README.
+[Winston on lo.cafe](https://locafe.app/winston/) · [Source code](https://github.com/lo-cafe-ltda/winston) · [Releases](https://github.com/lo-cafe-ltda/winston/releases) · [lo.cafe](https://locafe.app/)
 
-You can join the TestFlight here:
-https://testflight.apple.com/join/3UF8bAUN
+## Source code and releases
 
-You can support this project by subscribing to our Patreon:
-https://patreon.com/user?u=93745105
+This repository contains Winston’s source code, development branches, version tags and historical IPA releases. The latest historical release is **v1.1.5**, originally published on June 24, 2024.
 
-Join our super awesome Discord server:
-https://discord.gg/Jw3Syb3nrz 
+- Browse the [`main` branch](https://github.com/lo-cafe-ltda/winston/tree/main).
+- Explore development on [`alpha`](https://github.com/lo-cafe-ltda/winston/tree/alpha).
+- Find the original IPA files in [Releases](https://github.com/lo-cafe-ltda/winston/releases).
+- View [original screenshots and product history](https://locafe.app/winston/).
 
-Subscribe to our galactic subreddit:
-https://www.reddit.com/r/winstonfoss/
+The application’s documented minimum requirement is iOS 17. The Xcode project is in `winston.xcodeproj`.
+
+## Contributions
+
+Open an issue for a bug report or feature proposal. For code contributions, start from the `alpha` branch and open a pull request with a description of the change.
+
+## Company and contact
+
+**lo.cafe Ltda.** is the company behind NotchNook, with Mac and iOS projects including lo-rain and Winston.
+
+- Company website: [locafe.app](https://locafe.app/)
+- Company information: [lo.cafe Ltda.](https://locafe.app/empresa/)
+- Press and partnerships: [press@locafe.app](mailto:press@locafe.app)
+
+## License and contributors
+
+Winston is licensed under [GPL-3.0](LICENSE.md). Thanks to all [Winston contributors](https://github.com/lo-cafe-ltda/winston/graphs/contributors).
+
+[Installation and project links](docs/history/README-2024.md)
