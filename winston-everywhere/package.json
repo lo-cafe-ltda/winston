@@ -10,14 +10,14 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lo-cafe/winston.git"
+    "url": "git+https://github.com/lo-cafe-ltda/winston.git"
   },
   "author": "lo.cafe",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lo-cafe/winston/issues"
+    "url": "https://github.com/lo-cafe-ltda/winston/issues"
   },
-  "homepage": "https://github.com/lo-cafe/winston#readme",
+  "homepage": "https://github.com/lo-cafe-ltda/winston#readme",
   "devDependencies": {
     "@parcel/config-webextension": "^2.10.3",
     "@parcel/reporter-bundle-analyzer": "^2.10.3",
