@@ -19,14 +19,15 @@ The application’s documented minimum requirement is iOS 17. The Xcode project 
 
 ## Contributions
 
-Open an issue for a bug report or feature proposal. For code contributions, start from the `alpha` branch and open a pull request with a description of the change.
+The releases listed here are historical. For a proposed code contribution, open an issue to discuss the change before starting work. The `alpha` branch contains development work.
 
 ## Company and contact
 
 **lo.cafe Ltda.** is the company behind NotchNook, with Mac and iOS projects including lo-rain and Winston.
 
+- NotchNook: [getnotchnook.com](https://getnotchnook.com/)
 - Company website: [locafe.app](https://locafe.app/)
-- Company information: [lo.cafe Ltda.](https://locafe.app/empresa/)
+- Company information: [lo.cafe Ltda.](https://locafe.app/company/)
 - Press and partnerships: [press@locafe.app](mailto:press@locafe.app)
 
 ## License and contributors
